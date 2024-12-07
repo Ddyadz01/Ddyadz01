@@ -6,8 +6,8 @@
 
 Стек технологий, которые я пользую, усовершенствовав их каждый день:
 
-![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=CSS)
+![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/-javascript-060606?style=for-the-badge&logo=javascript)
 
 
@@ -17,6 +17,9 @@
 ![Static Badge](https://img.shields.io/badge/-axios-060606?style=for-the-badge&logo=axios)
 ![Static Badge](https://img.shields.io/badge/-React%20Query%20|%20Tanstack%20Query-060606?style=for-the-badge&logo=ReactQuery)
 ![Static Badge](https://img.shields.io/badge/-React%20Hook%20Form-060606?style=for-the-badge&logo=ReactHookForm)
+![Static Badge](https://img.shields.io/badge/-React%20Router-060606?style=for-the-badge&logo=reactrouter)
+
+
 
 ![Static Badge](https://img.shields.io/badge/-Sass-060606?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/-Tailwind%20css-060606?style=for-the-badge&logo=tailwindcss)
@@ -34,4 +37,4 @@
  <!-- Светлая тема -->
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=dfe1f1&hide_border=true&custom_title=Моя%20статистика%20Github:)](https://github.com/ddyadz01/github-readme-stats#gh-light-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
