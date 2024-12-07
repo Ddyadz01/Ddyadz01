@@ -29,6 +29,7 @@
 
 ![Static Badge](https://img.shields.io/badge/-Webstorm-060606?style=for-the-badge&logo=webstorm)
 
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=fff&text_color=fff&hide_border=true)
-
+ <!-- Темная тема -->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&count_private=true&bg_color=0a0a0a&text_color=fff&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
+ <!-- Светлая тема -->
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=dddddd&hide_border=true)](https://github.com/ddyadz01/github-readme-stats#gh-light-mode-only)
