@@ -2,4 +2,21 @@
 !['Header](https://github.com/Ddyadz01/Ddyadz01/blob/main/assets/Desktop_241207_1939.jpg)
 
 ## Я явлюяюсь Frontend разработчикои и ищу свою первую работу.
-![Static Badge](https://img.shields.io/badge/-Github-d20854?style=for-the-badge&logo=github)
+Стек технологий, которые я использую
+
+![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge&logo=HTML)
+![Static Badge](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=CSS)
+![Static Badge](https://img.shields.io/badge/-javascript-060606?style=for-the-badge&logo=javascript)
+
+
+![Static Badge](https://img.shields.io/badge/-React-060606?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/-axios-060606?style=for-the-badge&logo=axios)
+![Static Badge](https://img.shields.io/badge/-Redux-060606?style=for-the-badge&logo=Redux)
+
+![Static Badge](https://img.shields.io/badge/-Sass-060606?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/-Tailwind%20css-060606?style=for-the-badge&logo)
+
+![Static Badge](https://img.shields.io/badge/-Lucide-060606?style=for-the-badge&logo=lucide)
+
+
+![Static Badge](https://img.shields.io/badge/-MongoDB-060606?style=for-the-badge&logo=mongodb)
