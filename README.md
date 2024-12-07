@@ -27,3 +27,4 @@
 
 ![Static Badge](https://img.shields.io/badge/-Webstorm-060606?style=for-the-badge&logo=webstorm)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddyadz01)](https://github.com/anuraghazra/github-readme-stats)
