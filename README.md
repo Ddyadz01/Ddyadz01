@@ -4,7 +4,7 @@
 ## Я явлюяюсь Frontend разработчикои и ищу свою первую работу.
 Стек технологий, которые я использую
 
-![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge&logo=HTML)
+![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=CSS)
 ![Static Badge](https://img.shields.io/badge/-javascript-060606?style=for-the-badge&logo=javascript)
 
