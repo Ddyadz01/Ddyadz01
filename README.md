@@ -1,4 +1,8 @@
-## Hi there 👋 Как ты?
+
+<div id="header" align="center"> 
+	<h1>Hello</h1>
+	<h3>I am a web frontend developer</h3>
+</div>
 
 <!--
 **Ddyadz01/Ddyadz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
