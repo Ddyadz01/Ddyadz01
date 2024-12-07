@@ -1,8 +1,10 @@
 
 !['Header](https://github.com/Ddyadz01/Ddyadz01/blob/main/assets/Desktop_241207_1939.jpg)
 
-## Я явлюяюсь Frontend разработчикои и ищу свою первую работу.
-Стек технологий, которые я использую
+## Привет👋, меня зовут Альберт.
+<h3>Я явлюяюсь Frontend разработчикои и ищу свою первую работу.</h3>
+
+Стек технологий, которыми я пользуюсь и усовершенстоваю каждый день:
 
 ![Static Badge](https://img.shields.io/badge/-html-060606?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-CSS-060606?style=for-the-badge&logo=CSS)
@@ -28,5 +30,5 @@
 ![Static Badge](https://img.shields.io/badge/-Webstorm-060606?style=for-the-badge&logo=webstorm)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ddyadz01/github-readme-stats#gh-light-mode-only)
