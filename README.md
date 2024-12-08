@@ -38,7 +38,7 @@
  <!-- Светлая тема -->
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=4d46bf&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=ru&theme=dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=ru&theme=light" alt="ovi" />
 
 [![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
 
