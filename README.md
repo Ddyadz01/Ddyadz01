@@ -37,4 +37,6 @@
  <!-- Светлая тема -->
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=4d46bf&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/ddyadz01/github-readme-stats#gh-light-mode-only)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
