@@ -33,10 +33,10 @@
 ![Static Badge](https://img.shields.io/badge/-Webstorm-4d46bf?style=for-the-badge&logo=webstorm)
 
  <!-- Темная тема -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=4d46bf&border_color=4d46bf&custom_title=Моя%20статистика%20Github:&text_color=4d46bf&icon_color=4d46bf)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=0a0a0a&title_color=4d46bf&border_color=4d46bf&custom_title=Моя%20статистика%20Github:&text_color=4d46bf&icon_color=4d46bf)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
  <!-- Светлая тема -->
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=4d46bf&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/ddyadz01/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=ru&theme=chartreuse-dark" alt="ovi" />
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
