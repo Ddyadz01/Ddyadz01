@@ -40,7 +40,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=ru&theme=light" alt="ovi" />
 
-![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
+[![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
