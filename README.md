@@ -40,7 +40,7 @@
  <!-- Светлая тема -->
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_owner=true&show_icons=true&bg_color=4d46bf&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&locale=ru&theme=light" width=100% alt="vovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&bg_color=4d46bf&text_color=fff&title_color=fff&hide_border=true&theme=light" alt="vovi" />
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
