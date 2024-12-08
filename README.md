@@ -42,6 +42,6 @@
 
 [![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ddyadz01)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ddyadz01&theme=github-light&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
