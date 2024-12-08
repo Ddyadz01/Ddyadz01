@@ -42,5 +42,6 @@
 
  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=4477eb&title_color=fff&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&layout=compact&show_icons=true&custom_title=Статистика по языкам:&bg_color=4477eb&text_color=fff&title_color=fff&hide_border=true&theme=light&loc" width="400px"  alt="ovi"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&layout=compact&show_icons=true&custom_title=Статистика по языкам:&bg_color=4477eb&text_color=fff&title_color=fff&hide_border=true&theme=light&loc" width="400px"  alt="ovi"/> -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddyadz01&layout=compact&custom_title=Статистика%20по%20языкам:&bg_color=4477eb&text_color=fff&title_color=fff&hide_border=true&theme=light)
