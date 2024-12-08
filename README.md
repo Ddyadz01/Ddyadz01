@@ -44,4 +44,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ddyadz01&theme=github-light&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddyadz01)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
