@@ -33,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/-Webstorm-4d46bf?style=for-the-badge&logo=webstorm)
 
  <!-- Темная тема -->
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=0a0a0a&title_color=4d46bf&border_color=4d46bf&custom_title=Моя%20статистика%20Github:&text_color=4d46bf&icon_color=4d46bf)(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=0a0a0a&title_color=4d46bf&border_color=4d46bf&custom_title=Моя%20статистика%20Github:&text_color=4d46bf&icon_color=4d46bf)](https://github.com/ddyadz01/github-readme-stats#gh-dark-mode-only)
 
  <!-- Светлая тема -->
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&bg_color=4d46bf&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)(https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&theme=transparent)
