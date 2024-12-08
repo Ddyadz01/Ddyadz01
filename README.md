@@ -39,14 +39,16 @@
  <!-- Светлая тема
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_owner=true&show_icons=true&bg_color=161623&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+## Вот моя статистика на CodeWars 💻:
 
 [![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
+
+## А также на Github, в том числе самые часто используемые языки 📝:
 
  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=4477eb&title_color=fff&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddyadz01&show_icons=true&bg_color=4477eb&text_color=fff&title_color=fff&hide_border=true&theme=light&loc" width="400px"  alt="vovi"/>
 
-</div>	
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddyadz01&repo=domit-tut)](https://github.com/ddyadz01/domit-tut) -->
