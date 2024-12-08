@@ -7,11 +7,11 @@
 
 <h3>Стек технологий, которые я использую, усовершенствовав их каждый день:</h3>
 
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/-html-4477eb?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-CSS-4477eb?style=for-the-badge&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/-javascript-4477eb?style=for-the-badge&logo=javascript)
-
-
 ![Static Badge](https://img.shields.io/badge/-Vite-4477eb?style=for-the-badge&logo=vite)
 ![Static Badge](https://img.shields.io/badge/-React-4477eb?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/-Redux-4477eb?style=for-the-badge&logo=Redux)
@@ -19,20 +19,14 @@
 ![Static Badge](https://img.shields.io/badge/-React%20Query%20|%20Tanstack%20Query-4477eb?style=for-the-badge&logo=ReactQuery)
 ![Static Badge](https://img.shields.io/badge/-React%20Hook%20Form-4477eb?style=for-the-badge&logo=ReactHookForm)
 ![Static Badge](https://img.shields.io/badge/-React%20Router-4477eb?style=for-the-badge&logo=reactrouter)
-
-
-
 ![Static Badge](https://img.shields.io/badge/-Sass-4477eb?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/-Tailwind%20css-4477eb?style=for-the-badge&logo=tailwindcss)
-
 ![Static Badge](https://img.shields.io/badge/-Lucide-4477eb?style=for-the-badge&logo=lucide)
-
 ![Static Badge](https://img.shields.io/badge/-MongoDB-4477eb?style=for-the-badge&logo=mongodb)
-
 ![Static Badge](https://img.shields.io/badge/-Github-4477eb?style=for-the-badge&logo=Github)
-
 ![Static Badge](https://img.shields.io/badge/-Webstorm-4477eb?style=for-the-badge&logo=webstorm)
 
+</div>
 
  <!-- Темная тема -->
 
