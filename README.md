@@ -5,7 +5,7 @@
 Я явлюяюсь Frontend разработчиком. Готов рассмотреть предложения по работе.</h1>
 
 
-## Стек технологий, которые я использую, усовершенствовав их каждый день:
+<h3>Стек технологий, которые я использую, усовершенствовав их каждый день:</h3>
 
 ![Static Badge](https://img.shields.io/badge/-html-4477eb?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-CSS-4477eb?style=for-the-badge&logo=CSS3)
@@ -40,11 +40,11 @@
  <!-- Светлая тема
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_owner=true&show_icons=true&bg_color=161623&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
-## Вот моя статистика на CodeWars 💻:
+<h3>Вот моя статистика на CodeWars 💻:</h3>
 
 [![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
 
-## А также на Github, в том числе самые часто используемые языки 📝:
+<h3>А также на Github, в том числе самые часто используемые языки 📝:</h3>
 
  ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_icons=true&locale=ru&count_private=true&bg_color=4477eb&title_color=fff&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff)
 
