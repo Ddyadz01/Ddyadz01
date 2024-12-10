@@ -2,7 +2,7 @@
 
 
 <h1>Привет👋, меня зовут Альберт.<br/>
-Я явлюяюсь Frontend разработчиком. Готов рассмотреть предложения по работе.</h1>
+Я явлюяюсь Frontend разработчиком.</h1>
 
 ## Опыт в разработке около 3 лет. Коммерческого опыта нет.
 
@@ -26,6 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/-MongoDB-4477eb?style=for-the-badge&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/-Github-4477eb?style=for-the-badge&logo=Github)
 ![Static Badge](https://img.shields.io/badge/-Webstorm-4477eb?style=for-the-badge&logo=webstorm)
+![Static Badge](https://img.shields.io/badge/-Figma-4477eb?style=for-the-badge&logo=figma)
 
 </div>
 
