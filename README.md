@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/-React-4477eb?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/-Redux-4477eb?style=for-the-badge&logo=Redux)
 ![Static Badge](https://img.shields.io/badge/-axios-4477eb?style=for-the-badge&logo=axios)
+![Static Badge](https://img.shields.io/badge/-zustand-4477eb?style=for-the-badge&logo=zustand)
 ![Static Badge](https://img.shields.io/badge/-React%20Query%20|%20Tanstack%20Query-4477eb?style=for-the-badge&logo=ReactQuery)
 ![Static Badge](https://img.shields.io/badge/-React%20Hook%20Form-4477eb?style=for-the-badge&logo=ReactHookForm)
 ![Static Badge](https://img.shields.io/badge/-React%20Router-4477eb?style=for-the-badge&logo=reactrouter)
@@ -27,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/-Github-4477eb?style=for-the-badge&logo=Github)
 ![Static Badge](https://img.shields.io/badge/-Webstorm-4477eb?style=for-the-badge&logo=webstorm)
 ![Static Badge](https://img.shields.io/badge/-Figma-4477eb?style=for-the-badge&logo=figma)
+
 
 </div>
 
