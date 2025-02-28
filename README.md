@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/-html-4477eb?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-CSS-4477eb?style=for-the-badge&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/-javascript-4477eb?style=for-the-badge&logo=javascript)
-[![Static Badge](https://img.shields.io/badge/-NEXT+JS-4477eb?style=for-the-badge&logo=nextdotjs))](https://img.shields.io/badge/-nextjs-4477eb?style=for-the-badge&logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/-NextJs-4477eb?style=for-the-badge&logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/-Vite-4477eb?style=for-the-badge&logo=vite)
 ![Static Badge](https://img.shields.io/badge/-React-4477eb?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/-Redux-4477eb?style=for-the-badge&logo=Redux)
