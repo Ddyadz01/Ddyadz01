@@ -33,13 +33,4 @@
 
 </div>
 
- <!-- Темная тема -->
-
-
- <!-- Светлая тема
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ddyadz01&show_owner=true&show_icons=true&bg_color=161623&hide_border=true&custom_title=Моя%20статистика%20Github:&text_color=fff&icon_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
-
-<h3>Моя статистика на CodeWars 💻:</h3>
-
-[![Codewars Badge](https://www.codewars.com/users/Ddyadz01/badges/large)](https://www.codewars.com/users/Ddyadz01)
 
